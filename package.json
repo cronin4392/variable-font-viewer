@@ -1,0 +1,23 @@
+{
+  "name": "react-variable-font-editor",
+  "version": "0.1.0",
+  "private": false,
+  "homepage": "http://project.sscooba.net/variable-fonts/",
+  "dependencies": {
+    "camelcase-css": "^2.0.0",
+    "opentype.js": "^0.8.0",
+    "prismjs": "^1.14.0",
+    "react": "^16.4.0",
+    "react-contenteditable": "^2.1.0",
+    "react-dom": "^16.4.0",
+    "react-font-face": "^0.2.1",
+    "react-helmet": "^5.2.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
